@@ -1,4 +1,4 @@
-title: O chytrém ševci a hloupém čertovi
+title: Mzdové výpočty pro studenty
 baseURL: https://olgastankova.github.io/hugo-start/
 languageCode: cs-cz
 publishDir: docs
@@ -14,6 +14,6 @@ menu:
       weight: 20
 
 params:
-  description: Description of my new site.
-  authors: Authors
+  description: Mzdové výpočty pro studenty.
+  authors: Olga Staňková, Tereza Vršková
 

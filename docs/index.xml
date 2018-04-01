@@ -1,15 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on O chytrém ševci a hloupém čertovi</title>
+    <title>Home on Mzdové výpočty pro studenty</title>
     <link>https://olgastankova.github.io/hugo-start/</link>
-    <description>Recent content in Home on O chytrém ševci a hloupém čertovi</description>
+    <description>Recent content in Home on Mzdové výpočty pro studenty</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cs-cz</language>
-    <lastBuildDate>Sun, 01 Apr 2018 13:17:19 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 01 Apr 2018 16:56:13 +0200</lastBuildDate>
     
 	<atom:link href="https://olgastankova.github.io/hugo-start/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Team</title>
+      <link>https://olgastankova.github.io/hugo-start/post/team/</link>
+      <pubDate>Sun, 01 Apr 2018 16:56:13 +0200</pubDate>
+      
+      <guid>https://olgastankova.github.io/hugo-start/post/team/</guid>
+      <description>Členové týmu Olga Staňková Pracuje jako vedoucí personálního oddělení středně velké firmy. Má zkušenosti v oblasti personalistiky a výpočtu mezd.
+Tereza Vršková Zajímá se o oblast zpracování mezd. Má dobrou orientaci v jakémkoliv systému. Má zkušenosti s publikováním na webu (blog).</description>
+    </item>
     
     <item>
       <title>Vložení obsahu cizího webu na moje stránky</title>
@@ -44,13 +54,14 @@ To add new posts, simply add a file in the content/post directory that follows t
     </item>
     
     <item>
-      <title>About</title>
+      <title>O projektu</title>
       <link>https://olgastankova.github.io/hugo-start/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://olgastankova.github.io/hugo-start/about/</guid>
-      <description>This is a minimal Hugo website created for a course VIKBA07.
-Learn more about Hugo with a quick start guide or by exploring its documentation.</description>
+      <description>Cílová skupina Cílovou skupinu budou tvořit především studenti a absoventi vysokých škol. Dále ji mohou tvořit zájemci o informace z oblasti výpočtu mezd.
+Cíl webu Cílem projektu je zvýšit informovanost zejména studentů a absolventů o postupu výpočtu mezd. Výstupem by měly být podrobnější informace o aspektech mzdových výpočtů v souvislosti se zaměstnáváním studentů a absolventů.
+Projekt by měl spojovat informace o způsobu výpočtu mezd a informace legislativní, které výpočet mezd ovlivňují (vznik a rozsah sociálního a zdravotního pojištění) spolu s mými zkušenostmi mzdové účetní, a to se zaměřením na zaměstnance studenty a absolventy.</description>
     </item>
     
   </channel>
