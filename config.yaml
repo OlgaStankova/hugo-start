@@ -2,6 +2,7 @@ title: Mzdové výpočty pro studenty
 baseURL: https://olgastankova.github.io/hugo-start/
 languageCode: cs-cz
 publishDir: docs
+googleAnalytics: UA-117913155-1
 
 menu:
   main:
