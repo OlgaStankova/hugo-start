@@ -6,10 +6,22 @@
     <description>Recent content in Archive on Mzdové výpočty pro studenty</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cs-cz</language>
-    <lastBuildDate>Sun, 01 Apr 2018 16:56:13 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 28 Apr 2018 12:07:05 +0200</lastBuildDate>
     
 	<atom:link href="https://olgastankova.github.io/hugo-start/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Postup výpočtu mzdy</title>
+      <link>https://olgastankova.github.io/hugo-start/post/clanek1/</link>
+      <pubDate>Sat, 28 Apr 2018 12:07:05 +0200</pubDate>
+      
+      <guid>https://olgastankova.github.io/hugo-start/post/clanek1/</guid>
+      <description>Přehled: Základní mzda + příplatky, prémie, odměny, osobní ohodnocení, náhrady mzdy = Hrubá mzda
+Hrubá mzda – zdravotní pojištění (4,5 %) – sociální pojištění (6,5 %) – záloha na daň z příjmů ze závislé činnosti = Čistá mzda
+Čistá mzda – ostatní srážky (spoření, výživné, …) + náhrady mzdy za nemoc = Částka k výplatě
+Postup:  z hrubé mzdy vypočítáme zdravotní a sociální pojištění, které platí zaměstnavatel za zaměstnance (9 % zdravotní pojištění, 25 % sociální pojištění)</description>
+    </item>
     
     <item>
       <title>Team</title>
