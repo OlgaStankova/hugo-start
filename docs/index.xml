@@ -71,9 +71,9 @@ To add new posts, simply add a file in the content/post directory that follows t
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://olgastankova.github.io/hugo-start/about/</guid>
-      <description>Cílová skupina Cílovou skupinu budou tvořit především studenti a absoventi vysokých škol. Dále ji mohou tvořit zájemci o informace z oblasti výpočtu mezd.
-Cíl webu Cílem projektu je zvýšit informovanost zejména studentů a absolventů o postupu výpočtu mezd. Výstupem by měly být podrobnější informace o aspektech mzdových výpočtů v souvislosti se zaměstnáváním studentů a absolventů.
-Projekt by měl spojovat informace o způsobu výpočtu mezd a informace legislativní, které výpočet mezd ovlivňují (vznik a rozsah sociálního a zdravotního pojištění) spolu s mými zkušenostmi mzdové účetní, a to se zaměřením na zaměstnance studenty a absolventy.</description>
+      <description>Toto je studijní projekt, který vznikl v rámci předmětu Nástroje a možnosti internetu 2018, Filosofická fakulta MUNI.
+Cílová skupina Cílovou skupinu budou tvořit především studenti a absoventi vysokých škol. Dále ji mohou tvořit zájemci o informace z oblasti výpočtu mezd.
+Cíl webu Cílem projektu je zvýšit informovanost zejména studentů a absolventů o postupu výpočtu mezd. Výstupem by měly být podrobnější informace o aspektech mzdových výpočtů v souvislosti se zaměstnáváním studentů a absolventů.</description>
     </item>
     
   </channel>

@@ -4,6 +4,7 @@ menu:
   main:
     weight: 30
 ---
+Toto je studijní projekt, který vznikl v rámci předmětu Nástroje a možnosti internetu 2018, Filosofická fakulta MUNI.
 
 ### Cílová skupina
 Cílovou skupinu budou tvořit především studenti a absoventi vysokých škol. Dále ji mohou tvořit zájemci o informace z oblasti výpočtu mezd.
