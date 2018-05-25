@@ -42,3 +42,6 @@ Hrubá mzda – zdravotní pojištění (4,5 %) – sociální pojištění (6,5
 10. vypočítáme čistou mzdu = hrubá mzda – zdravotní a sociální pojištění z bodu 9. – záloha na daň z příjmů ze závislé činnosti (respektive + daňový bonus)
 
 11. z čisté mzdy musíme dále odečíst ostatní srážky (popř. přičteme náhradu mzdy za nemoc) = __částka k výplatě__
+
+### Dodatek k předmětu NAMI:
+12. Pane magistře, dnešní test se mi moc líbí, zatím se všechno daří. Moc se těším na Vaše konečné hodnocení :-)
